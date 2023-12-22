@@ -1,0 +1,66 @@
+p {
+  margin: 1px 0;
+  padding: 0;
+}
+
+ul {
+  margin-bottom: 5px;
+  margin-top: 2px;
+}
+
+span.resumename {
+  font-size: 14pt;
+  font-weight: bold;
+}
+
+span.email, span.mobile {
+  font-size: 1.01em;
+  font-style: italic;
+}
+
+.projtitle {
+  font-size: 10pt;
+  font-weight: bold;
+  padding-left: 5px;
+}
+
+.projguide {
+  font-style: italic;
+}
+
+.projperiod {
+  font-size: 10pt;
+  font-weight: bold;
+  padding-right: 5px;
+}
+
+.projdetail {
+  font-size: 10pt;
+  font-weight: normal;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.headerrowstyle {
+  margin: 15px 0 10px;
+}
+
+body {
+  background-color: #fff;
+  font: 10pt "Lucida Grande", tahoma, helvetica, verdana, arial;
+  line-height: 20px;
+  margin: 10px auto;
+  padding: 10px;
+  width: 100%;
+  width: 800px;
+}
+
+html {
+  background-color: #fabc2a;
+}
+
+.fixwidth {
+  margin-bottom: 4px;
+  overflow: hidden;
+  width: 100%;
+}
